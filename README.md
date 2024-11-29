@@ -1,7 +1,8 @@
 # Portales de Empleo en LATAM 📑🌎
 
-Este repositorio contiene una lista de portales de empleo en LATAM, categorizados para facilitar tu búsqueda laboral. Encontrarás vacantes de diversas áreas, desde tecnología hasta marketing, para que puedas dar el siguiente paso en tu carrera profesional. ¡Explorá las opciones y encontrá la vacante que buscas! 💼🚀
+Este repositorio contiene una lista de portales de empleo en LATAM, categorizados para facilitar tu búsqueda laboral. Encontrarás vacantes de diversas áreas, desde tecnología hasta marketing, para que puedas dar el siguiente paso en tu carrera profesional 💼🚀
 
+🆙 EXTRA: para organizar y llevar un seguimiento de tus entrevistas, podés duplicar este [Template de Seguimiento de Entrevistas](https://natayaspace.notion.site/Template-Entrevistas-14dac052215880da8dfcc049a47f099f?pvs=4)  en Notion.
 
 | Name                                                                                       | Type                                               |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
