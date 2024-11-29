@@ -5,8 +5,8 @@ Este repositorio contiene una lista de portales de empleo en LATAM, categorizado
 🆙 **Algunos recursos EXTRA**
 - [Encuesta de sueldos Salancy](https://salarios.gonzalopozzo.com/)
 - [Encuesta de sueldos SysArmy](https://sysarmy.com/blog/tags/sueldos/) 
-- [Encuesta de sueldos de la industria de los videojuegos](https://www.womeningamesar.com/#Proyectos)
--  [Template de Seguimiento de Entrevistas](https://natayaspace.notion.site/Template-Entrevistas-14dac052215880da8dfcc049a47f099f?pvs=4) para duplicar en Notion para organizar y llevar un seguimiento de tus entrevistas.
+- [Encuesta de sueldos Women In Games](https://www.womeningamesar.com/#Proyectos)
+- [Template de Seguimiento de Entrevistas](https://natayaspace.notion.site/Template-Entrevistas-14dac052215880da8dfcc049a47f099f?pvs=4) para duplicar en Notion para organizar y llevar un seguimiento de tus entrevistas.
 
 
 | Name                                                                                       | Type                                               |
