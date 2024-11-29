@@ -1,14 +1,17 @@
-# Portales de Empleo en LATAM 📑🌎
+<h1 align="center"> Portales de Empleo en LATAM 📑</h1>
 
-Este repositorio contiene una lista de portales de empleo en LATAM, categorizados para facilitar tu búsqueda laboral. Encontrarás vacantes de diversas áreas, desde tecnología hasta marketing, para que puedas dar el siguiente paso en tu carrera profesional 💼🚀
+<p align="center"> Este repositorio contiene una lista de portales de empleo en LATAM, categorizados para facilitar tu búsqueda laboral. Encontrarás vacantes de diversas áreas, desde tecnología hasta marketing, para que puedas dar el siguiente paso en tu carrera profesional 💼🚀</p>
+<p align="center"> ¿Te gustaría aportar al repositorio? Visitá la <a href="CONTRIBUTING.md">guía de contribución</a> </p>
 
-🆙 **Algunos recursos EXTRA**
-- [Encuesta de sueldos Salancy](https://salarios.gonzalopozzo.com/)
-- [Encuesta de sueldos SysArmy](https://sysarmy.com/blog/tags/sueldos/) 
-- [Encuesta de sueldos Women In Games](https://www.womeningamesar.com/#Proyectos)
-- [Template de Seguimiento de Entrevistas](https://natayaspace.notion.site/Template-Entrevistas-14dac052215880da8dfcc049a47f099f?pvs=4) para duplicar en Notion para organizar y llevar un seguimiento de tus entrevistas.
+💸 [Encuesta de sueldos Salancy](https://salarios.gonzalopozzo.com/)
 
-___
+💸 [Encuesta de sueldos SysArmy](https://sysarmy.com/blog/tags/sueldos/) 
+
+💸 [Encuesta de sueldos Women In Games](https://www.womeningamesar.com/#Proyectos)
+
+🆙 [Template de Seguimiento de Entrevistas para Notion](https://natayaspace.notion.site/Template-Entrevistas-14dac052215880da8dfcc049a47f099f?pvs=4)
+
+---
 
 | **Name**                                                                                       | **Type**                                                                                                      |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -64,3 +67,8 @@ ___
 | [Kranio](https://www.kranio.io/jobs)                                                           | 💻 Tech, 📊 Data, 💼 Comercial                                                                                 |
 | [IBM Careers](https://www.ibm.com/careers/search)                                              | 📊 Data, 💻 Tech, 👥 People, 💼 Comercial, 📈 Marketing, 🎨 Diseño                                            |
 | [Platzi](https://apply.workable.com/platzi/?utm_medium=organic)                                | 📊 Data, 💻 Tech, 🎓 Educación, 📈 Marketing, 💼 Comercial                                                    |
+
+---
+**Si te resultó útil este repositorio, regalame una estrella ⭐**
+
+<a href="https://cafecito.app/natayafs"> <img alt="Static Badge" src="https://img.shields.io/badge/cafecito-purple?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fcafecito.app%2Fnatayafs"></a> <a href="https://www.buymeacoffee.com/natayafs"> <img alt="Static Badge" src="https://img.shields.io/badge/buy_me_a_coffee-purple?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fnatayafs"></a>
