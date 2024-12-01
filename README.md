@@ -40,7 +40,7 @@
 | [Comafi](https://comafi.hiringroom.com/jobs)                                                   |                                                                                                               |
 | [KPMG](https://kpmg.hiringroom.com/jobs)                                                       |                                                                                                               |
 | [Prune](https://prune.hiringroom.com/jobs)                                                     |                                                                                                               |
-| [Grupo Aseconecta - Medife](https://grupoaseconecta.hiringroom.com/jobs/microsite/medife)      |                                                                                                               |
+| [Medife](https://grupoaseconecta.hiringroom.com/jobs/microsite/medife)      |                                                                                                               |
 | [UTDT](https://utdt.hiringroom.com/jobs)                                                       | 🎓 Educación, 💻 Tech, 💼 Comercial, 📈 Marketing, ⚖️ Legales                                                 |
 | [Coca-Cola FEMSA](https://coca-colafemsa.hiringroom.com/jobs)                                   |                                                                                                               |
 | [Coelsa](https://coelsa.hiringroom.com/jobs)                                                   |                                                                                                               |
@@ -51,7 +51,7 @@
 | [Pedidos Ya](https://empleos.pedidosya.com/)                                                   | 💻 Tech, 📊 Data, 🛒 Supermercado, 👥 People, 💼 Comercial, 📈 Marketing                                         |
 | [Distillery](https://distillery.com/open-positions/)                                           | 📊 Data, 💻 Tech, 💼 Comercial                                                                                 |
 | [BBVA Argentina](https://bbvaargentina.hiringroom.com/jobs)                                    | 💻 Tech, 💳 Bancario, 📊 Data, 💼 Comercial                                                                   |
-| [Open Roles (Notion)](https://www.notion.so/f5e1d379ab084320bf94bfb1ecffc20e?pvs=21)           | 📊 Data, 💻 Tech, 💼 Comercial, ⚖️ Legales, 🎨 Diseño                                                         |
+| [Takenos](https://www.notion.so/f5e1d379ab084320bf94bfb1ecffc20e?pvs=21)           | 📊 Data, 💻 Tech, 💼 Comercial, ⚖️ Legales, 🎨 Diseño                                                         |
 | [Incluyeme](https://www.incluyeme.com.ar/trabajos/)                                             | 💻 Tech, 💼 Comercial, 🏥 Salud, 📊 Data, ⚖️ Legales, 👥 People                                                |
 | [Baufest](https://baufest.avature.net/jobs/)                                                   | 💻 Tech, 📊 Data, 💼 Comercial                                                                                 |
 | [Swiss Medical](https://swissmedical.jobs2web.com/go/Sistemas-y-Tecnologia/8240200/)           | 💻 Tech, 📊 Data, 🏥 Salud, 🎨 Diseño                                                                         |
@@ -64,6 +64,7 @@
 | [MuttData](https://jobs.lever.co/muttdata/)                                                    | 📊 Data, 👥 People, 💼 Comercial                                                                              |
 | [Mercado Libre](https://mercadolibre.eightfold.ai/careers)                                     | 📊 Data, 💻 Tech, 👥 People, 💼 Comercial, 📈 Marketing, ⚖️ Legales, 🎨 Diseño, 💳 Bancario                      |
 | [Santander](https://www.santander.com/es/trabaja-con-nosotros)                                 | 💳 Bancario, 💻 Tech, 📊 Data, 💼 Comercial, 📈 Marketing, ⚖️ Legales                                         |
+| [Ualá](https://www.comeet.com/jobs/Uala/54.00B)                                                | 💳 Bancario, 💻 Tech, 📊 Data, 💼 Comercial, 📈 Marketing, ⚖️ Legales                                         |
 | [Kranio](https://www.kranio.io/jobs)                                                           | 💻 Tech, 📊 Data, 💼 Comercial                                                                                 |
 | [IBM Careers](https://www.ibm.com/careers/search)                                              | 📊 Data, 💻 Tech, 👥 People, 💼 Comercial, 📈 Marketing, 🎨 Diseño                                            |
 | [Platzi](https://apply.workable.com/platzi/?utm_medium=organic)                                | 📊 Data, 💻 Tech, 🎓 Educación, 📈 Marketing, 💼 Comercial                                                    |
