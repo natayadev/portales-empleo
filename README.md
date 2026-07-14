@@ -19,24 +19,24 @@
 | [Palermo](https://palermo.hiringroom.com/jobs)                                                  | 🎓 Educación, 💼 Comercial, 🛠️ Oficios, 💻 Tech, ⚖️ Legales, 📊 Data                                           |
 | [ITSM Consulting](https://itsmconsulting.hiringroom.com/jobs)                                   | 📊 Data, 💻 Tech, 🎨 Diseño, ⚖️ Legales, 📈 Marketing, 💼 Comercial                                           |
 | [Banco Patagonia](https://bancopatagonia.hiringroom.com/jobs)                                  | 💳 Bancario, 💻 Tech, 📊 Data, 💼 Comercial, 📈 Marketing, ⚖️ Legales                                          |
-| [La Caja](https://lacaja.hiringroom.com/jobs)                                                  |                                                                                                               |
-| [La Serenísima](https://laserenisima.hiringroom.com/jobs)                                      |                                                                                                               |
-| [Temaikén](https://temaiken.hiringroom.com/jobs)                                                |                                                                                                               |
-| [Ricky Sarkany](https://rickysarkany.hiringroom.com/jobs)                                       |                                                                                                               |
+| [La Caja](https://lacaja.hiringroom.com/jobs)                                                  | 🛡️ Seguros, 💻 Tech, ⚖️ Legales, 👥 Atención al Cliente                                                       |
+| [La Serenísima](https://laserenisima.hiringroom.com/jobs)                                      | 🏭 Producción, 🛠️ Oficios, ⚙️ Ingeniería, 👥 People, 💰 Finanzas                                              |
+| [Temaikén](https://temaiken.hiringroom.com/jobs)                                                | 🛠️ Oficios                                                                                                   |
+| [Ricky Sarkany](https://rickysarkany.hiringroom.com/jobs)                                       | 💼 Comercial, 🛠️ Oficios, 👥 Atención al Cliente                                                              |
 | [UCA](https://uca.hiringroom.com/jobs)                                                         | 🎓 Educación, 💻 Tech, 📈 Marketing, 📊 Data, 👥 People, 💼 Comercial                                           |
-| [San Cristóbal RRHH](https://sancristobalrrhh.hiringroom.com/jobs)                             |                                                                                                               |
-| [Coca Cola Andina](https://cocacolaandina.hiringroom.com/jobs)                                 |                                                                                                               |
+| [San Cristóbal RRHH](https://sancristobalrrhh.hiringroom.com/jobs)                             | 🛡️ Seguros, 🏥 Salud                                                                                          |
+| [Coca Cola Andina](https://cocacolaandina.hiringroom.com/jobs)                                 | 📦 Logística, 💰 Finanzas, 💼 Comercial, 🏭 Producción, 🛠️ Oficios, 👥 People                                  |
 | [UDESA](https://udesa.hiringroom.com/jobs)                                                     | 🎓 Educación                                                                                                  |
-| [El Cronista](https://cronista.hiringroom.com/jobs)                                             |                                                                                                               |
-| [Frávega](https://fravega.hiringroom.com/jobs)                                                 |                                                                                                               |
+| [El Cronista](https://cronista.hiringroom.com/jobs)                                             | 💻 Tech, 💼 Comercial, 📈 Marketing, 📰 Comunicación                                                          |
+| [Frávega](https://fravega.hiringroom.com/jobs)                                                 | 💼 Comercial, 💻 Tech, 💰 Finanzas, 🛠️ Oficios                                                                |
 | [ITBA Universidad](https://itbauniversidad.hiringroom.com/jobs)                                | 🎓 Educación, 👥 People, 📈 Marketing, 💻 Tech, 📊 Data, 💼 Comercial                                           |
-| [KPMG](https://kpmg.hiringroom.com/jobs)                                                       |                                                                                                               |
-| [Prune](https://prune.hiringroom.com/jobs)                                                     |                                                                                                               |
-| [Medife](https://grupoaseconecta.hiringroom.com/jobs/microsite/medife)      |                                                                                                               |
+| [KPMG](https://kpmg.hiringroom.com/jobs)                                                       | 💻 Tech, 💰 Finanzas, ⚖️ Legales, 📈 Marketing, 👥 People                                                     |
+| [Prune](https://prune.hiringroom.com/jobs)                                                     | 💼 Comercial, 💰 Finanzas, 💻 Tech, 📦 Logística, 🏭 Producción                                                |
+| [Medife](https://grupoaseconecta.hiringroom.com/jobs/microsite/medife)      | 💼 Comercial, 👥 Atención al Cliente, 🏥 Salud, 💻 Tech, 💰 Finanzas, 🛠️ Oficios                              |
 | [UTDT](https://utdt.hiringroom.com/jobs)                                                       | 🎓 Educación, 💻 Tech, 💼 Comercial, 📈 Marketing, ⚖️ Legales                                                 |
-| [Coca-Cola FEMSA](https://coca-colafemsa.hiringroom.com/jobs)                                   |                                                                                                               |
-| [Flybondi](https://flybondi.hiringroom.com/jobs)                                               |                                                                                                               |
-| [La Nación](https://lanacion.hiringroom.com/jobs)                                               |                                                                                                               |
+| [Coca-Cola FEMSA](https://coca-colafemsa.hiringroom.com/jobs)                                   | 💼 Comercial, 👥 People, 📈 Marketing, ⚙️ Ingeniería, ⚖️ Legales, 🏭 Producción, 💻 Tech                       |
+| [Flybondi](https://flybondi.hiringroom.com/jobs)                                               | 🛠️ Oficios                                                                                                   |
+| [La Nación](https://lanacion.hiringroom.com/jobs)                                               | 💰 Finanzas, 📈 Marketing, 🎨 Diseño, 📰 Comunicación, 💻 Tech, 👥 People                                       |
 | [Pedidos Ya](https://empleos.pedidosya.com/)                                                   | 💻 Tech, 📊 Data, 🛒 Supermercado, 👥 People, 💼 Comercial, 📈 Marketing                                         |
 | [Distillery](https://distillery.com/open-positions/)                                           | 📊 Data, 💻 Tech, 💼 Comercial                                                                                 |
 | [Takenos](https://www.notion.so/f5e1d379ab084320bf94bfb1ecffc20e?pvs=21)           | 📊 Data, 💻 Tech, 💼 Comercial, ⚖️ Legales, 🎨 Diseño                                                         |
@@ -44,7 +44,7 @@
 | [Baufest](https://baufest.avature.net/jobs/)                                                   | 💻 Tech, 📊 Data, 💼 Comercial                                                                                 |
 | [Swiss Medical](https://swissmedical.jobs2web.com/go/Sistemas-y-Tecnologia/8240200/)           | 💻 Tech, 📊 Data, 🏥 Salud, 🎨 Diseño                                                                         |
 | [Lurecruiter](https://www.careers-page.com/lurecruiter)                                         | 💻 Tech, 📊 Data                                                                                                |
-| [Calmes Simple](https://calmessimple.com.ar/sumate/)                                           |                                                                                                               |
+| [Calmes Simple](https://calmessimple.com.ar/sumate/)                                           | 📦 Logística, 💰 Finanzas, 💻 Tech                                                                            |
 | [Zillow](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/jobs)                | 📊 Data, 💻 Tech, 💼 Comercial, 📈 Marketing                                                                   |
 | [Microsoft Careers](https://careers.microsoft.com/v2/global/en/home.html)                      | 📊 Data, 💻 Tech, 💼 Comercial, 👥 People, 🎥 Multimedia, 📈 Marketing, 🎮 Gaming, ⚖️ Legales, 🎨 Diseño         |
 | [MuttData](https://jobs.lever.co/muttdata/)                                                    | 📊 Data, 👥 People, 💼 Comercial                                                                              |
@@ -54,7 +54,7 @@
 | [Kranio](https://www.kranio.io/jobs)                                                           | 💻 Tech, 📊 Data, 💼 Comercial                                                                                 |
 | [IBM Careers](https://www.ibm.com/careers/search)                                              | 📊 Data, 💻 Tech, 👥 People, 💼 Comercial, 📈 Marketing, 🎨 Diseño                                            |
 | [Platzi](https://apply.workable.com/platzi/?utm_medium=organic)                                | 📊 Data, 💻 Tech, 🎓 Educación, 📈 Marketing, 💼 Comercial                                                    |
-| [Seeds](https://app.weareseeders.com/registrate?referido=nataya-flores)                        |                                                                                                               |
+| [Seeds](https://app.weareseeders.com/registrate?referido=nataya-flores)                        | 📊 Data, 💻 Tech                                                                                              |
 
 ---
 
