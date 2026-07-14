@@ -68,8 +68,8 @@
 | MetLife | Pasantías / pasante de sistemas | Pasantías | Argentina | No especificada | Argentina | [LinkedIn](https://ar.linkedin.com/jobs/pasante-de-sistemas-empleos) |
 | Cervecería y Maltería Quilmes / AB InBev | Programa de Pasantías 2025/2026 | Pasantías | Argentina | Presencial / variable | Buenos Aires Province / otras sedes | [LinkedIn](https://ar.linkedin.com/jobs/view/programa-de-pasant%C3%ADas-2025-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4161970320) |
 | Naranja X | Talento Go 2026 | Pasantías | Argentina | Híbrida | Argentina | [careers.naranjax.com](https://careers.naranjax.com/) |
-| Despegar | Pasaporte Trainee / Jóvenes de Alto Vuelo | Trainee / pasantías | Argentina | Híbrida | Buenos Aires / Argentina-Uruguay según edición | [jobs.lever.co/despegar](https://jobs.lever.co/despegar) |
-| Mercado Libre | IT Academy / pasantías | Trainee / pasantías | Argentina | No especificada | Argentina / CABA en antecedentes | [mercadolibre.com/itacademy](https://www.mercadolibre.com.ar/itacademy) |
+| Despegar | Pasaporte Trainee / Jóvenes de Alto Vuelo | Trainee / pasantías | Argentina | Híbrida | Buenos Aires | [jobs.lever.co/despegar](https://jobs.lever.co/despegar) |
+| Mercado Libre | IT Academy / pasantías | Trainee / pasantías | Argentina | No especificada | Argentina / CABA | [mercadolibre.com/itacademy](https://www.mercadolibre.com.ar/itacademy) |
 | Google | Business Internship Program 2026 / Pasantías LATAM | Internship | Argentina / LATAM | Híbrida | Buenos Aires | [careers.google.com/students](https://careers.google.com/students/) |
 | Accenture Argentina | Changemakers Program - Pasantías | Pasantías | Argentina | Part-time (turno mañana o tarde) | CABA/AMBA / Mar del Plata / Rosario | [accenture.com/internships-students](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students) |
 | INVAP | Programa de Pasantías 2026 | Pasantías | Argentina | No especificada | Río Negro / Argentina | [invap.com.ar/talento/pasantias](https://www.invap.com.ar/talento/pasantias/) |
@@ -77,9 +77,9 @@
 | Natura | Programa de Pasantías | Pasantías | Argentina | Variable | Argentina | [LinkedIn](https://www.linkedin.com/jobs/view/294282346) |
 | La Virginia | Programa de Pasantías | Pasantías | Argentina | Presencial | Rosario, Santa Fe | [sumate.lavirginia.com.ar](https://sumate.lavirginia.com.ar/) |
 | Denso | Programa de Pasantías | Pasantías | Argentina | No especificada | Argentina | [bumeran.com](https://www.bumeran.com.ar/empleos/programa-de-pasantias-en-denso-selpe-1118309425.html) |
-| IBM | Blue Journey / Student Intern Program / Internship jobs | Internship / pasantías | Argentina / LATAM / global | Híbrida / presencial según vacante | Buenos Aires / Ciudad Evita / Perito Moreno según fuente | [ibm.com/careers/internships](https://www.ibm.com/careers/internships) |
+| IBM | Blue Journey / Student Intern Program / Internship jobs | Internship / pasantías | Argentina / LATAM / global | Híbrida / presencial | Buenos Aires / Ciudad Evita / Perito Moreno | [ibm.com/careers/internships](https://www.ibm.com/careers/internships) |
 | Microsoft | Student / internship programs | Internship | LATAM / global | Variable | Global / LATAM | [careers.microsoft.com](https://careers.microsoft.com/v2/global/en/universityinternship) |
-| Electronic Arts | Data Analysis & Software Engineer Interns / early careers | Internship | LATAM / global | Variable | Global; resultado visto en Colombia | [ea.com/careers](https://www.ea.com/es-mx/careers/early-careers) |
+| Electronic Arts | Data Analysis & Software Engineer Interns / early careers | Internship | LATAM / global | Variable | Colombia | [ea.com/careers](https://www.ea.com/es-mx/careers/early-careers) |
 | Disney | Argentina Internships | Internship | Argentina | No especificada | Argentina | [disneycareers](https://www.disneycareers.com/es/argentina-internships) |
 | Philips | Pasantías y Prácticas Profesionales | Pasantías / prácticas | LATAM | Variable | LATAM | [careers.philips](https://www.careers.philips.com/student/latam/es/pasantias) |
 | MSD LATAM | Programa de Pasantías - Medical Affairs (ingreso agosto 2026) | Pasantías | LATAM | Híbrida | Buenos Aires / LATAM | [bebee](https://bebee.com/ar/jobs/programa-de-pasantias-medical-affairs-msd-latam-buenos-aires-buenos-aires-province--theirstack-661470783) |
