@@ -99,6 +99,8 @@
 | Edenor | Programa de Pasantías 2026 | Pasantías | Argentina | Jornada reducida | Buenos Aires | [edenor.com/programa-de-pasantias](https://www.edenor.com/trabaja-en-edenor/nuestras-iniciativas/programa-de-pasantias) |
 | Salesforce | LATAM Internship Program | Internship | LATAM | Presencial/híbrida | Buenos Aires | [careers.salesforce.com](https://careers.salesforce.com/en/jobs/jr236329/latam-internship-program-sales-intern-argentina/) |
 
+| ICBC Argentina | Generación Sí - Programa de pasantías ICBC 2026 | Pasantías | Argentina | Presencial | Argentina | [LinkedIn](https://lnkd.in/dtSDpS-e) |
+
 ---
 **Si te resultó útil este repositorio, regalame una estrella ⭐**
 
